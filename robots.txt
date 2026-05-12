@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /checkout
+
+Sitemap: https://escoladevendasdecorretores.com.br/poder-das-indicacoes/sitemap.xml
